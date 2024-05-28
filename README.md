@@ -1,0 +1,26 @@
+## Hi there 👋
+During my tenure at National Central University, where I earned both my Bachelor's and Master's degrees in Atmospheric Science, I immersed myself in research on cloud microphysics modules within MM5 and WRF models. 
+
+Transitioning to the Meteorological Bureau, my focus shifted towards testing and developing global data assimilation systems. 
+Over ten years, I led the Global Data Assimilation team, pioneering advancements such as the Global Ensemble Prediction System for Typhoon Track and innovative techniques like Hybrid 3DEnVar and Hybrid 4DEnVar. 
+
+Presently, at the Central Meteorological Administration, I manage the maintenance of High-Performance Computing (HPC) and Numerical Weather Prediction (NWP) systems, seamlessly merging my atmospheric science expertise with IT proficiency to ensure the reliability of critical meteorological infrastructure.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dengshunchen&hide_progress=true)
+
+<!--
+[![Deng-Shun Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=dengshunchen)](https://github.com/anuraghazra/github-readme-stats)
+
+**DengShunChen/DengShunChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
