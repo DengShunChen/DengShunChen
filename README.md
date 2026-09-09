@@ -61,10 +61,11 @@ Today, I focus on reliable HPC and NWP systems while exploring machine learning,
 
 ## GitHub activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DengShunChen&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Deng-Shun Chen's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DengShunChen&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most-used languages">
-</div>
+Explore my latest work and contributions directly on GitHub:
+
+- [Repositories](https://github.com/DengShunChen?tab=repositories) — scientific software, HPC tools, weather applications, and AI projects
+- [Pinned projects](https://github.com/DengShunChen?tab=repositories) — selected work highlighted on my profile
+- [Contribution activity](https://github.com/DengShunChen?tab=overview) — recent commits, issues, and pull requests
 
 ---
 
